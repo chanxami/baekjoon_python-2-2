@@ -1,4 +1,4 @@
-# 🐍 Baekjoon Python Algorithm Study
+# 🐍 Baekjoon Python Algorithm Study in 2-2
 
 > **"꾸준함이 실력이다!"**  
 > 2학년 2학기 겨울방학 동안 푼 백준 알고리즘 문제를 정리한 저장소입니다.  
