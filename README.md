@@ -6,7 +6,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)
 ![Baekjoon](https://img.shields.io/badge/Baekjoon-Algorithm%20Study-orange?style=flat-square)
-![Commit](https://img.shields.io/github/last-commit/사용자이름/baekjoon_python?style=flat-square)
 
 ---
 
